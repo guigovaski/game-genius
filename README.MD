@@ -1,0 +1,1 @@
+# Desafio básico realizado para o bootcamp fullstack da Digital Innovation One, onde construi um jogo "Genius" feito com HTML, CSS e JavaScript
